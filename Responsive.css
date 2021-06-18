@@ -1,0 +1,47 @@
+nav{flex-direction: column;
+height: 125px;}
+
+nav ul li a{margin: 0px 8px;
+padding: 0px;
+font-size: 0.8rem;}
+
+.heading{font-size: 1.6rem;}
+.paragraph{font-size: 0.5rem;
+padding: 0px 5px;}
+
+#Home .btn{font-size: 0.8rem;}
+
+#containers{flex-direction: column;}
+
+.box{width: 180px;
+height: 255px;}
+
+.box img{height: 75px;
+margin: 5px 35px;}
+.paragraph1{font-size: small;}
+
+.clients{flex-wrap: wrap;}
+
+.boxes img {
+    height: 70px;
+    width: 70px;
+    margin: 10px;
+}
+
+.boxes {
+    height: 100px;
+    width: 100px;
+    margin: 13px 3px;
+    padding: 3px 6px;}
+
+.heading1{font-size: 1rem;}
+
+h3{font-size: 1.6rem;}
+
+#contactbox label {
+    font-size: 0.8rem;
+}
+
+#contactbox textarea{
+    width: 117%;
+    height: 50px};
